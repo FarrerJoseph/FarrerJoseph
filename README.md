@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarrerJoseph
-- 👀 I’m interested in Minecraft, Books, legos, music, Dragonball, and food
+- 👀 I’m interested in Minecraft, Fortnite, Books, legos, music, Dragonball, Ninjago, and food
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a rpg game with battles 
 - 📫 How to reach me joseph.a.farrer@gmail.com
