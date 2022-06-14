@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarrerJoseph
-- 👀 I’m interested in Minecraft, Fortnite, Books, legos, music, Dragonball, Ninjago, and food
+- 👀 I’m interested in Minecraft, Fortnite, Books, legos, music, Dragonball, Ninjago, SCPs, FNAF, RE, Dying Light, 8-Bit Ryan, and food
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a rpg game with battles 
+- 💞️ I’m looking to collaborate on a rpg game with battles or a FNAF fan game
 - 📫 How to reach me joseph.a.farrer@gmail.com
 
 <!---
